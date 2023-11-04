@@ -1,0 +1,29 @@
+IG_UI_FR = {
+    IGUI_VehicleNamem113a1 = "M113A1",
+	
+	IGUI_VehiclePartSeatCommander = "Siège du commandant",
+	IGUI_VehiclePartSeatRearFrontLeft = "Siège passager avant gauche",
+	IGUI_VehiclePartSeatRearFrontRight = "Siège passager avant droit",
+	IGUI_VehiclePartSeatRearMiddleLeft = "Siège passager central gauche",
+	IGUI_VehiclePartSeatRearMiddleRight = "Siège passager central droit",
+	IGUI_VehiclePartSeatRearRearLeft = "Siège passager arrière gauche",
+	IGUI_VehiclePartSeatRearRearRight = "Siège passager arrière droit",
+	
+	IGUI_VehiclePartBrakeLeftM113 = "Frein gauche",
+	IGUI_VehiclePartBrakeRightM113 = "Frein droit",
+	
+	IGUI_VehiclePartEngineDoorM113 = "Trappe d'accès moteur",
+	
+	IGUI_VehiclePartTireFrontLeftM113 = "Embrayage de direction gauche",
+	IGUI_VehiclePartTireFrontRightM113 = "Embrayage de direction droite",
+	IGUI_VehiclePartTireRearLeftM113 = "Embrayage de conduite gauche",
+	IGUI_VehiclePartTireRearRightM113 = "Embrayage à conduite droite",
+	
+	IGUI_SeatCommander = "Commandant",
+	IGUI_SeatRearFrontLeft = "Passager avant gauche",
+	IGUI_SeatRearFrontRight = "Passager avant droit",
+	IGUI_SeatRearMiddleLeft = "Passager milieu gauche",
+	IGUI_SeatRearMiddleRight = "Passager milieu droit",
+	IGUI_SeatRearRearLeft = "Passager arrière gauche",
+	IGUI_SeatRearRearRight = "Passager arrière droit",
+}
